@@ -11,7 +11,7 @@ Tengo una filosofia de trabajo que me gusta bastante por la persistencia que ten
 >*Ensañarme en una meta y no parar hasta conseguirla*
 ---
 ## Herramientas y conocimientos
-![Bash](https://es.wikibooks.org/wiki/Archivo:Bash_Logo_black_and_white_icon_only.svg)
+![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
 
 
