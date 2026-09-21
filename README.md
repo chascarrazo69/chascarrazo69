@@ -8,7 +8,7 @@ Ahora mismo, estoy realizando el grado superior de DAW, donde dsifruto mucho res
 
 # Filosofía
 Tengo una filosofia de trabajo que me gusta bastante:
->Ensañarme en una meta y no parar hasta conseguirla
+>*Ensañarme en una meta y no parar hasta conseguirla*
 
 ## Herramientas y conocimientos
 
