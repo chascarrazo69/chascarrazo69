@@ -17,7 +17,7 @@ Tengo una filosofia de trabajo que me gusta bastante por la persistencia que ten
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;
 ![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=white)&nbsp;&nbsp;
 
-
+Aprendí todos esos lenguajes a través del curso de **DAW**, pero bash lo estuve dando durante bastante tiempo en el grado de **SMR** donde realizaba archivos ejecutables con el mismo, además de moverme por la terminal.
 
 <!--
 **chascarrazo69/chascarrazo69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
