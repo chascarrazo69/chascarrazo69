@@ -7,7 +7,7 @@
 Ahora mismo, estoy realizando el grado superior de DAW, donde dsifruto mucho resolviendo problemas del backend, aunque también me siento muy cómodo realizando parte del frontend. Anteriormente, a este curso, estuve realizando el grado medio de ~~SMR~~, el cual finalicé con un buen nivel. 
 
 # Filosofía
-Tengo una filosofia de trabajo que me gusta bastante:
+Tengo una filosofia de trabajo que me gusta bastante por la persistencia que tengo en todo:
 >*Ensañarme en una meta y no parar hasta conseguirla*
 
 ## Herramientas y conocimientos
