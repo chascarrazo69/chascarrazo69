@@ -11,11 +11,11 @@ Tengo una filosofia de trabajo que me gusta bastante por la persistencia que ten
 >*Ensañarme en una meta y no parar hasta conseguirla*
 ---
 ## Herramientas y conocimientos
-![Python](https://img.shields.io/badge/PYTHON-005a91?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=white) 
+![Python](https://img.shields.io/badge/PYTHON-005a91?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;&nbsp;
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;
+![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=white)&nbsp;&nbsp;
 
 
 
