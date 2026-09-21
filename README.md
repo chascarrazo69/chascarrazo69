@@ -1,7 +1,7 @@
 # ¡Hola! Mi nombre es David.
 
-### -Estudiante de Desarrollo de Aplicaciones Web (DAW)
-### -Tecnico medio de Sistemas Microinformáticos y Redes (SMR)
+### - Estudiante de Desarrollo de Aplicaciones Web (DAW)
+### - Tecnico medio de Sistemas Microinformáticos y Redes (SMR)
 ---
 ## Sobre mí.
 Ahora mismo, estoy realizando el grado superior de DAW, donde dsifruto mucho resolviendo problemas del backend, aunque también me siento muy cómodo realizando parte del frontend. Anteriormente, a este curso, estuve realizando el grado medio de ~~SMR~~, el cual finalicé con un buen nivel. 
