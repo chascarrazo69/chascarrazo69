@@ -25,7 +25,7 @@ Tengo una filosofia de trabajo que me gusta bastante por la persistencia que ten
 
 Aprendí todos esos lenguajes a través del curso de **DAW**, pero bash lo estuve dando durante bastante tiempo en el grado de **SMR** donde realizaba archivos ejecutables con el mismo, además de moverme por la terminal. También hacia algunos archivos de bash por diversión, me parecia bastante divertido la creatividad y libertad que te aportaba, en su momento hice un menú con opciones normales simples del sistema pero, le introduje *Easter Eggs* como este comando que hace que te borre el sistema linux por completo: `sudo rm -rf --no-preserve-root /`.
 
-###Proyecto personal
+### Proyecto personal
 Además antes de aprender HTML en DAW, estuve aprendiendo por mi cuenta a través de un curso que encontré por internet, todos los días le echaba un par de horas. En principio fue porque queria hacerle un regalo a mi pareja utilizando mi campo de estudio y pensé que lo más creativo seria usar HTML, lo cual me vino muy bien para después. Es un poco personal pero voy a dejar un simple trozo de código del menú inicial:
 ```html
 <!DOCTYPE html>
