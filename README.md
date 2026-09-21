@@ -4,7 +4,13 @@
 ### - Tecnico medio de Sistemas Microinformáticos y Redes (SMR)
 ---
 ## Sobre mí.
-Ahora mismo, estoy realizando el grado superior de DAW, donde disfruto mucho resolviendo problemas del backend, aunque también me siento muy cómodo realizando parte del frontend. Anteriormente, a este curso, estuve realizando el grado medio de ~~SMR~~, el cual finalicé con un buen nivel. 
+Ahora mismo, estoy realizando el grado superior de DAW, donde disfruto mucho resolviendo problemas del backend, aunque también me siento muy cómodo realizando parte del frontend. Anteriormente, a este curso, estuve realizando el grado medio de ~~SMR~~, el cual finalicé con un buen nivel.
+
+### Pasos en la informatica
+Cuando estuve en 4º de la ESO, tuve que elegir mi futuro y en vez de decantarme por algo como bachiller que sabia que no me iba a gustar y que me iba a meter porque sí preferí seguir mis gustos desde pequeño y meterme a la informática, lo vi un poco así:
+1. Realizar el grado medio
+2. Decidir si seguir o buscar trabajo
+3. Realizar el grado superior
 
 ### Filosofía
 Tengo una filosofia de trabajo que me gusta bastante por la persistencia que tengo en todo:
