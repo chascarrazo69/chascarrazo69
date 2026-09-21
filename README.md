@@ -25,6 +25,29 @@ Tengo una filosofia de trabajo que me gusta bastante por la persistencia que ten
 
 Aprendí todos esos lenguajes a través del curso de **DAW**, pero bash lo estuve dando durante bastante tiempo en el grado de **SMR** donde realizaba archivos ejecutables con el mismo, además de moverme por la terminal. También hacia algunos archivos de bash por diversión, me parecia bastante divertido la creatividad y libertad que te aportaba, en su momento hice un menú con opciones normales simples del sistema pero, le introduje *Easter Eggs* como este comando que hace que te borre el sistema linux por completo: `sudo rm -rf --no-preserve-root /`.
 
+Además antes de aprender HTML en DAW, estuve aprendiendo por mi cuenta a través de un curso que encontré por internet, todos los días le echaba un par de horas. En principio fue porque queria hacerle un regalo a mi pareja utilizando mi campo de estudio y pensé que lo más creativo seria usar HTML, lo cual me vino muy bien para después. Es un poco personal pero voy a dejar un simple trozo de código del menú inicial:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+    <link rel="stylesheet" href="archivos/paginas/css/menu.css">
+</head>
+<body>
+    <div class="menu">
+        <div class="titulo"><h1>Menú</h1></div>
+        <div class="enlaces">
+            <a href="archivos/paginas/html/sitevas.html" class="enlace1">Busqueda</a>
+            <a href="archivos/paginas/html/iwasmade.html" class="enlace2">Destino</a>
+            <a href="archivos/paginas/html/imyours.html" class="enlace3">Amor infinito</a>
+            <a href="archivos/paginas/html/sol.html" class="enlace4">Realidad</a>
+        </div>
+    </div>
+</body>
+</html>
+```
 <!--
 **chascarrazo69/chascarrazo69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
