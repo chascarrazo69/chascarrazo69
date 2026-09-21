@@ -1,6 +1,6 @@
 # ¡Hola! Mi nombre es David.
 
-## Estudiante de Desarrollo de Aplicaciones Web (DAW) y tecnico medio de Sistemas Microinformáticos y Redes (SMR)
+### Estudiante de Desarrollo de Aplicaciones Web (DAW) y tecnico medio de Sistemas Microinformáticos y Redes (SMR)
 
 
 
