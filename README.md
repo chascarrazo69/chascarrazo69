@@ -30,14 +30,14 @@ A lo largo de mi aprendizaje estuve aprendiendo bastantes cosas en cada materia 
 
 [x] Dominar los comandos de la terminal Ubuntu
 [x] Crear un entorno de pruebas de Windows Server
-[] A partir de una API publica crear una página donde muestre la información de la misma
+[x] A partir de una API publica crear una página donde muestre la información de la misma
 [] Diseñar una app web completa con logins y su propia base de datos
 
 | Proyecto | Tecnologías | Estado |
 | :--- | :--- | :---: |
-| **Gestor de Tareas** | JavaScript, LocalStorage | Completado |
-| **API de Tienda** | PHP, MySQL | En desarrollo |
-| **Portfolio Personal** | HTML5, CSS3, JS | Planificado |
+| **CRUD completo** | Python, MySQL, HTML, CSS, JavaScript | Planificado |
+| **Pagina a partir de API publica** | HTML, CSS, JavaScript | Terminada |
+| **Proyecto final ciclo** | Python, MySQL, HTML, CSS, JavaScript | En desarrollo |
 
 
 ## Proyecto personal
