@@ -25,7 +25,7 @@ Tengo una filosofia de trabajo que me gusta bastante por la persistencia que ten
 
 Aprendí todos esos lenguajes a través del curso de **DAW**, pero bash lo estuve dando durante bastante tiempo en el grado de **SMR** donde realizaba archivos ejecutables con el mismo, además de moverme por la terminal. También hacia algunos archivos de bash por diversión, me parecia bastante divertido la creatividad y libertad que te aportaba, en su momento hice un menú con opciones normales simples del sistema pero, le introduje *Easter Eggs* como este comando que hace que te borre el sistema linux por completo: `sudo rm -rf --no-preserve-root /`.
 
-##Metas y proyectos
+## Metas y proyectos
 A lo largo de mi aprendizaje estuve aprendiendo bastantes cosas en cada materia pero todavía me gustaría cumplir un par más.
 
 [x] Dominar los comandos de la terminal Ubuntu
