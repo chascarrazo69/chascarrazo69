@@ -25,7 +25,22 @@ Tengo una filosofia de trabajo que me gusta bastante por la persistencia que ten
 
 Aprendí todos esos lenguajes a través del curso de **DAW**, pero bash lo estuve dando durante bastante tiempo en el grado de **SMR** donde realizaba archivos ejecutables con el mismo, además de moverme por la terminal. También hacia algunos archivos de bash por diversión, me parecia bastante divertido la creatividad y libertad que te aportaba, en su momento hice un menú con opciones normales simples del sistema pero, le introduje *Easter Eggs* como este comando que hace que te borre el sistema linux por completo: `sudo rm -rf --no-preserve-root /`.
 
-### Proyecto personal
+##Metas y proyectos
+A lo largo de mi aprendizaje estuve aprendiendo bastantes cosas en cada materia pero todavía me gustaría cumplir un par más.
+
+[x] Dominar los comandos de la terminal Ubuntu
+[x] Crear un entorno de pruebas de Windows Server
+[] A partir de una API publica crear una página donde muestre la información de la misma
+[] Diseñar una app web completa con logins y su propia base de datos
+
+| Proyecto | Tecnologías | Estado |
+| :--- | :--- | :---: |
+| **Gestor de Tareas** | JavaScript, LocalStorage | Completado |
+| **API de Tienda** | PHP, MySQL | En desarrollo |
+| **Portfolio Personal** | HTML5, CSS3, JS | Planificado |
+
+
+## Proyecto personal
 Además antes de aprender HTML en DAW, estuve aprendiendo por mi cuenta a través de un curso que encontré por internet, todos los días le echaba un par de horas. En principio fue porque queria hacerle un regalo a mi pareja utilizando mi campo de estudio y pensé que lo más creativo seria usar HTML, lo cual me vino muy bien para después. El codigo de cada página es algo personal pero voy a dejar un simple trozo de código del menú inicial:
 ```html
 <!DOCTYPE html>
@@ -49,6 +64,7 @@ Además antes de aprender HTML en DAW, estuve aprendiendo por mi cuenta a travé
 </body>
 </html>
 ```
+
 <!--
 **chascarrazo69/chascarrazo69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
