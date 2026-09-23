@@ -33,6 +33,8 @@ A lo largo de mi aprendizaje estuve aprendiendo bastantes cosas en cada materia 
 - [x] A partir de una API publica crear una página donde muestre la información de la misma
 - [ ] Diseñar una app web completa con logins y su propia base de datos
 
+
+
 | Proyecto | Tecnologías | Estado |
 | :--- | :--- | :---: |
 | **CRUD completo** | Python, MySQL, HTML, CSS, JavaScript | Planificado |
