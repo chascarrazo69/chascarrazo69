@@ -28,10 +28,10 @@ Aprendí todos esos lenguajes a través del curso de **DAW**, pero bash lo estuv
 ## Metas y proyectos
 A lo largo de mi aprendizaje estuve aprendiendo bastantes cosas en cada materia pero todavía me gustaría cumplir un par más.
 
-[x] Dominar los comandos de la terminal Ubuntu
-[x] Crear un entorno de pruebas de Windows Server
-[x] A partir de una API publica crear una página donde muestre la información de la misma
-[] Diseñar una app web completa con logins y su propia base de datos
+- [x] Dominar los comandos de la terminal Ubuntu
+- [x] Crear un entorno de pruebas de Windows Server
+- [x] A partir de una API publica crear una página donde muestre la información de la misma
+- [] Diseñar una app web completa con logins y su propia base de datos
 
 | Proyecto | Tecnologías | Estado |
 | :--- | :--- | :---: |
