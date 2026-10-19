@@ -83,3 +83,6 @@ Here are some ideas to get you started:
 -->
 
 "![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=white)&nbsp;&nbsp;"
+
+https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=white
+
