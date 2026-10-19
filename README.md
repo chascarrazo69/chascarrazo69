@@ -81,8 +81,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-"![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=white)&nbsp;&nbsp;"
-
-https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=white
-
